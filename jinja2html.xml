@@ -4,7 +4,7 @@
 	<!ENTITY name    "[A-Za-z_:][\w.:_-]*">
 	<!ENTITY entref  "&amp;(#[0-9]+|#[xX][0-9A-Fa-f]+|&name;);">
 ]>
-<language name="Jinja2 HTML Template" version="0.1" kateversion="3.2" section="Markup" extensions="*.j2htm;*.j2html;*.j2" mimetype="text/html"  author="Alexander Schepanovski (suor.web@gmail.com)" license="LGPL" priority="9">
+<language name="Jinja2 HTML Template" version="0.1" kateversion="3.2" section="Markup" extensions="*.j2htm;*.j2html;*.j2" mimetype="text/html"  author="Alexander Schepanovski (https://github.com/Suor/kate-syntax)" license="LGPL" priority="9">
 
 <!--
     Based on Django HTML Template syntax file by Matthew Marshall (matthew@matthewmarshall.org).
